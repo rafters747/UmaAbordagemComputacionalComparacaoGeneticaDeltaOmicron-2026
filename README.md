@@ -2,8 +2,10 @@ UERJ - Universidade do Estado do Rio de Janeiro, Rio de Janeiro (RJ), Brasil
 PPG-CompMat - Programa de Pós-Graduação em Ciências Computacionais e Modelagem Matemática
 
 Artigo: Uma Abordagem Computacional para Comparação Genética entre as variantes Delta e Omicron.
-Autores: Fábio Farias (aluno), Camila Fardilha (aluno), Manoel Gil (aluno), Alexandre Sena (professor).\\
-Contato: farias.fabio@posgraduacao.uerj.br, camilafard@gmail.com, gilmanueljoao87@gmail.com, asena@ime.uerj.br
+
+Autores: Fábio Farias (aluno), Camila Fardilha (aluno), Manoel Gil (aluno), Alexandre Sena (professor).
+
+Contatos: farias.fabio@posgraduacao.uerj.br, camilafard@gmail.com, gilmanueljoao87@gmail.com, asena@ime.uerj.br
 
 Esse projeto foi criado para atender atender a princípios valiosos da prática científica, são eles: transparência e reprodutibilidade.
 
